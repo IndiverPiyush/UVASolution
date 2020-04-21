@@ -1,0 +1,6 @@
+while(True):
+    try:
+        n=input()
+    except EOF Error:
+        break
+    print(n)
